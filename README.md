@@ -1,7 +1,6 @@
 # AIML_LAB_EXAM_B34_B33
 
 # AIML LAB EXTERNAL (2024-25)
-# AIML LAB EXTERNAL (2024-25)
 <a href="https://forms.gle/T6pQ7DjAwnmv4KBd8">Submit Your Github File URL</a>
 <table>
   <tr>
